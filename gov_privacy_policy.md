@@ -2,7 +2,7 @@
 
 **Effective Date:** September 18, 2026  
 **Last Updated:** September 18, 2026  
-**Developer Contact:** Tshiamo Jantjie (tshiajan@gmail.com)
+**Developer Contact:** Tshiamo Jantjie (janaire.dev@gmail.com)
 
 ---
 
@@ -40,5 +40,5 @@ We may occasionally revise this Privacy Policy to reflect app updates or regulat
 ## 9. Contact Information
 For inquiries or feedback concerning this Privacy Policy, please contact:
 - **Developer:** Tshiamo Jantjie  
-- **Email:** tshiajan@gmail.com  
+- **Email:** janaire.dev@gmail.com  
 - **Hosted Reference URL:** https://tshiajan.github.io/ai-global-governance-privacy/
